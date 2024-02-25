@@ -1,0 +1,12 @@
+body{
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+
+}
+
+button{
+     padding: 2% 5%;
+     font-size: 20px;
+
+}
